@@ -8,7 +8,7 @@ category:   System
 license:    MIT
 
 dependencies:
-  - base     >= 4.9
+  - base
   - concat-classes
   - concat-plugin
   - concat-examples
