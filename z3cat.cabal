@@ -21,7 +21,7 @@ source-repository head
 
 library
   build-depends:
-      base     >= 4.9
+      base
     , concat-classes
     , concat-plugin
     , concat-examples
